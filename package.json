@@ -11,6 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^6.34.1",
     "inngest": "^3.44.4",
+    "lucide-react": "^0.552.0",
     "mongoose": "^8.19.2",
     "next": "^16.0.1",
     "react": "^19.0.0",
