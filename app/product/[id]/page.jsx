@@ -9,6 +9,8 @@ import { useParams } from "next/navigation";
 import Loading from "@/components/Loading";
 import { useAppContext } from "@/context/AppContext";
 import React from "react";
+import axios from "axios";
+
 
 const Product = () => {
 
